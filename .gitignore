@@ -25,3 +25,6 @@ desktop.ini
 
 # Keep downloaded source datasets out of Git
 data/raw/
+
+# Keep generated processed datasets out of Git
+data/processed/
